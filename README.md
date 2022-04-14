@@ -1,4 +1,4 @@
-# README | Data Types in Python
+# Data Types in Python
 ---
 
 |  # | Data Type Group | Data Type                                                 |
